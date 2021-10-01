@@ -1,25 +1,24 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Menat Pink",
+	title: "Hey, I'm Menat Pink",
 	description:
 		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
 	resumeLink: "https://cv.hanzla.ga",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "menatpink",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
+	instagram: "https://www.instagram.com/menatpink",
 	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	github: "https://github.com/menatpink",
+	linkedin: "https://www.linkedin.com/in/menatpink/",
 };
 
 export const skillsSection = {
